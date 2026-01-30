@@ -1,2 +1,2 @@
-# Course-CS2770
-Course materials for Cornell's CS/IS/AEM 2770 SP4 - Excursions in Computational Sustainability
+# AEM/CS/IS SP24 - Excursions in Computational Sustainability
+Course materials for Cornell's AEM/IS/CS 2770 SP4 - Excursions in Computational Sustainability
